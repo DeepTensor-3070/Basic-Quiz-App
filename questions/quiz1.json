@@ -1,0 +1,472 @@
+[
+    {
+        "question": "What is the correct file extension for Python files?",
+        "options": [
+            ".pyth",
+            ".pt",
+            ".py",
+            ".p"
+        ],
+        "answer": ".py"
+    },
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "question": "What is the output of print(type(10))?",
+        "options": [
+            "<class 'int'>",
+            "<class 'float'>",
+            "<class 'str'>",
+            "<class 'bool'>"
+        ],
+        "answer": "<class 'int'>"
+    },
+    {
+        "question": "Which data structure is mutable?",
+        "options": [
+            "tuple",
+            "string",
+            "list",
+            "int"
+        ],
+        "answer": "list"
+    },
+    {
+        "question": "Which symbol is used for comments in Python?",
+        "options": [
+            "//",
+            "/*",
+            "#",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "question": "What does len() function do?",
+        "options": [
+            "Counts characters",
+            "Returns length",
+            "Prints size",
+            "None"
+        ],
+        "answer": "Returns length"
+    },
+    {
+        "question": "Which of the following is a Python boolean value?",
+        "options": [
+            "true",
+            "false",
+            "True",
+            "TRUE"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "What is the output of print(2 ** 3)?",
+        "options": [
+            "6",
+            "8",
+            "9",
+            "5"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "Which keyword is used for loops in Python?",
+        "options": [
+            "loop",
+            "repeat",
+            "for",
+            "iterate"
+        ],
+        "answer": "for"
+    },
+    {
+        "question": "Which collection is ordered and immutable?",
+        "options": [
+            "list",
+            "set",
+            "tuple",
+            "dict"
+        ],
+        "answer": "tuple"
+    },
+    {
+        "question": "What does break do in a loop?",
+        "options": [
+            "Skips iteration",
+            "Stops loop",
+            "Repeats loop",
+            "None"
+        ],
+        "answer": "Stops loop"
+    },
+    {
+        "question": "Which function converts string to integer?",
+        "options": [
+            "str()",
+            "float()",
+            "int()",
+            "bool()"
+        ],
+        "answer": "int()"
+    },
+    {
+        "question": "What is the output of print('Hello'[1])?",
+        "options": [
+            "H",
+            "e",
+            "l",
+            "o"
+        ],
+        "answer": "e"
+    },
+    {
+        "question": "Which operator is used for floor division?",
+        "options": [
+            "/",
+            "//",
+            "%",
+            "**"
+        ],
+        "answer": "//"
+    },
+    {
+        "question": "Which keyword is used to handle exceptions?",
+        "options": [
+            "catch",
+            "try",
+            "error",
+            "except"
+        ],
+        "answer": "try"
+    },
+    {
+        "question": "What is the output of bool(0)?",
+        "options": [
+            "True",
+            "False",
+            "None",
+            "0"
+        ],
+        "answer": "False"
+    },
+    {
+        "question": "Which data type stores key-value pairs?",
+        "options": [
+            "list",
+            "tuple",
+            "dict",
+            "set"
+        ],
+        "answer": "dict"
+    },
+    {
+        "question": "What is the output of print(5 % 2)?",
+        "options": [
+            "2",
+            "2.5",
+            "1",
+            "0"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Which keyword is used to create a class?",
+        "options": [
+            "object",
+            "define",
+            "class",
+            "struct"
+        ],
+        "answer": "class"
+    },
+    {
+        "question": "Which method adds an element to a list?",
+        "options": [
+            "add()",
+            "push()",
+            "append()",
+            "insert()"
+        ],
+        "answer": "append()"
+    },
+    {
+        "question": "What is the output of print(type(()))?",
+        "options": [
+            "list",
+            "tuple",
+            "set",
+            "dict"
+        ],
+        "answer": "tuple"
+    },
+    {
+        "question": "Which loop is best when number of iterations is known?",
+        "options": [
+            "while",
+            "for",
+            "do-while",
+            "loop"
+        ],
+        "answer": "for"
+    },
+    {
+        "question": "Which function returns ASCII value?",
+        "options": [
+            "char()",
+            "ord()",
+            "ascii()",
+            "chr()"
+        ],
+        "answer": "ord()"
+    },
+    {
+        "question": "What does continue do in loop?",
+        "options": [
+            "Stops loop",
+            "Skips iteration",
+            "Ends program",
+            "None"
+        ],
+        "answer": "Skips iteration"
+    },
+    {
+        "question": "Which module is used for random numbers?",
+        "options": [
+            "math",
+            "random",
+            "sys",
+            "os"
+        ],
+        "answer": "random"
+    },
+    {
+        "question": "What is the output of print(3 == 3)?",
+        "options": [
+            "True",
+            "False",
+            "None",
+            "0"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "Which function reads user input?",
+        "options": [
+            "read()",
+            "scan()",
+            "input()",
+            "get()"
+        ],
+        "answer": "input()"
+    },
+    {
+        "question": "Which keyword is used to return a value?",
+        "options": [
+            "give",
+            "send",
+            "return",
+            "output"
+        ],
+        "answer": "return"
+    },
+    {
+        "question": "Which of the following is immutable?",
+        "options": [
+            "list",
+            "dict",
+            "set",
+            "tuple"
+        ],
+        "answer": "tuple"
+    },
+    {
+        "question": "What does is operator check?",
+        "options": [
+            "Value",
+            "Type",
+            "Identity",
+            "Equality"
+        ],
+        "answer": "Identity"
+    },
+    {
+        "question": "Which function converts integer to string?",
+        "options": [
+            "int()",
+            "str()",
+            "float()",
+            "bool()"
+        ],
+        "answer": "str()"
+    },
+    {
+        "question": "Which keyword is used to import modules?",
+        "options": [
+            "include",
+            "using",
+            "import",
+            "require"
+        ],
+        "answer": "import"
+    },
+    {
+        "question": "What is the output of len('Python')?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "None"
+        ],
+        "answer": "6"
+    },
+    {
+        "question": "Which operator checks equality?",
+        "options": [
+            "=",
+            "==",
+            "!=",
+            "<>"
+        ],
+        "answer": "=="
+    },
+    {
+        "question": "Which statement creates an empty list?",
+        "options": [
+            "()",
+            "{}",
+            "[]",
+            "<>"
+        ],
+        "answer": "[]"
+    },
+    {
+        "question": "What does pass do?",
+        "options": [
+            "Stops loop",
+            "Placeholder",
+            "Skips code",
+            "Error"
+        ],
+        "answer": "Placeholder"
+    },
+    {
+        "question": "Which function sorts a list?",
+        "options": [
+            "sort()",
+            "order()",
+            "arrange()",
+            "sortedlist()"
+        ],
+        "answer": "sort()"
+    },
+    {
+        "question": "Which keyword deletes a variable?",
+        "options": [
+            "remove",
+            "clear",
+            "delete",
+            "del"
+        ],
+        "answer": "del"
+    },
+    {
+        "question": "What is the output of print(type({}))?",
+        "options": [
+            "set",
+            "list",
+            "dict",
+            "tuple"
+        ],
+        "answer": "dict"
+    },
+    {
+        "question": "Which module gives system-specific parameters?",
+        "options": [
+            "os",
+            "sys",
+            "math",
+            "random"
+        ],
+        "answer": "sys,sys"
+    },
+    {
+        "question": "What does range(3) produce?",
+        "options": [
+            "0,1,2",
+            "1,2,3",
+            "0,1,2,3",
+            "1,2"
+        ],
+        "answer": "0,1,2"
+    },
+    {
+        "question": "Which keyword is used for inheritance?",
+        "options": [
+            "inherits",
+            "extends",
+            "super",
+            "class"
+        ],
+        "answer": "class"
+    },
+    {
+        "question": "Which function opens a file?",
+        "options": [
+            "open()",
+            "file()",
+            "read()",
+            "load()"
+        ],
+        "answer": "open()"
+    },
+    {
+        "question": "Which data type is unordered?",
+        "options": [
+            "list",
+            "tuple",
+            "set",
+            "string"
+        ],
+        "answer": "set"
+    },
+    {
+        "question": "What is the output of print(not True)?",
+        "options": [
+            "True",
+            "False",
+            "None",
+            "0"
+        ],
+        "answer": "False"
+    },
+    {
+        "question": "Which keyword creates anonymous functions?",
+        "options": [
+            "func",
+            "def",
+            "lambda",
+            "anon"
+        ],
+        "answer": "lambda"
+    },
+    {
+        "question": "Which exception occurs on division by zero?",
+        "options": [
+            "ValueError",
+            "ZeroDivisionError",
+            "TypeError",
+            "NameError"
+        ],
+        "answer": "ZeroDivisionError"
+    }
+]
