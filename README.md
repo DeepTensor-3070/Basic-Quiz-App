@@ -156,4 +156,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
   Made with ❤️ using Python & Streamlit
+  Create By DeepTensor
 </div>
